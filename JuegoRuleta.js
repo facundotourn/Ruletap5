@@ -1,4 +1,5 @@
 // JuegoRuleta.js
+// Lo que
 var ruleta;
 var radio = 250;
 var angulo_b = 0;
