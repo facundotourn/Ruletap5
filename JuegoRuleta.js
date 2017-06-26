@@ -5,7 +5,7 @@ var angulo_b = 0;
 
 var acc_b = 0;
 var vel_b = 0;
-var bool_bolM = 0.005;
+var bool_bolM = 0.004;
 var bool_bolF = 0.005;
 var frenar_acelerar = 1;
 
